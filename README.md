@@ -31,7 +31,7 @@ conda install python=3.6 prody=2.2.0 mdanalysis==2.0.0
 
 ## Prerequisites:
 
-Tools for processing ensemble from homology:
+Tools for constructing ensemble from homology:
 
 * CD_HIT v4.8.1 (https://sites.google.com/view/cd-hit?pli=1)
 * MUSCLE v5.1 (https://www.drive5.com/muscle/)
