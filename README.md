@@ -3,12 +3,12 @@
 
 ## Contents
 
-README: this file with instructions for installation.
+README: Instructions for installation.
 
 Dataset:
 - str_collection_log: Log file during the collection of homologous structures
-- ref: the reference sequence in fasta format
-- homo: raw homologous sequences in fasta format
+- ref: The reference sequence in fasta format
+- homo: Raw homologous sequences in fasta format
 - pdb_store: Please unzip the compressed file to get the raw homologous structures
 - homo_ensemble: Please unzip the compressed file to get the aligned snapshots from homology
 
