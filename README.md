@@ -20,7 +20,7 @@ PCSL_Output:
 
 PCSL:
 - homologs_collection.py: Utilities to collect raw homologous structures
-- PCSL.py: Functions for reading outputs of PCSL
+- PCSL.py: Codes for reading outputs of PCSL
 
 
 ## Installation:
