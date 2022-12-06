@@ -13,10 +13,10 @@ Dataset:
 - homo_ensemble: Please unzip the compressed file to get the aligned snapshots from homology
 
 PCSL_Output:
-- MD_chat_MD_res: Inter-residue spring constants from MD $\hat{\text{c}}$ with positional fluctuation restraints from MD ensemble
-- homo_chat_homo_res: Inter-residue spring constants from homologous $\hat{\text{c}}$ with positional fluctuation restraints from homologous ensemble
-- MD_chat_homo_res: Inter-residue spring constants from MD $\hat{\text{c}}$ with positional fluctuation restraints from homologous ensemble
-- MD_chat_Xray_res: Inter-residue spring constants from MD $\hat{\text{c}}$ with positional fluctuation restraints from Xray
+- MD_chat_MD_res: Inter-residue spring constants from $\hat{\text{c}}$ calculated from MD-sampled ensemble and positional fluctuation restraints from MD ensemble
+- homo_chat_homo_res: Inter-residue spring constants from $\hat{\text{c}}$ calculated from homologous ensemble and positional fluctuation restraints from homologous ensemble
+- MD_chat_homo_res: Inter-residue spring constants from $\hat{\text{c}}$ calculated from homologous ensemble and positional fluctuation restraints from homologous ensemble
+- MD_chat_Xray_res: Inter-residue spring constants from $\hat{\text{c}}$ calculated from homologous ensemble and positional fluctuation restraints from Xray
 
 PCSL:
 - homologs_collection.py: Utilities to collect raw homologous structures
