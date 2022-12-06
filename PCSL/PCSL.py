@@ -1,15 +1,11 @@
 import pickle
 
 
-
-
 PCSL_Output="PCSL_Output/"
 MD_chat_MD_res_file="MD_chat_MD_res.db"
 homo_chat_homo_res_file="homo_chat_homo_res.db"
 MD_chat_homo_res_file="MD_chat_homo_res.db"
 MD_chat_Xray_res_file="MD_chat_Xray_res.db"
-
-
 
 
 # Load spring constant kij
