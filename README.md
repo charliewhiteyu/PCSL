@@ -1,5 +1,5 @@
 # Positional Covariance Statistical Learning (PCSL)
-> PCSL is a statistical learning method that parametrizes the elastic network model from positional covariance of structural ensemble.
+> PCSL is a statistical learning method that parametrizes the Elastic Network Model from positional covariance of structural ensemble.
 
 ## Contents
 
