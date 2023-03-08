@@ -7,7 +7,7 @@ README: Instructions for installation.
 
 Dataset:
 - str_collection_log: Log file during the collection of homologous structures
-- structure annotations: additional annotations, such as chain ID, structure resolution, and ligand, of the collected homologous structures in the str_collection_log file
+- structural annotations: additional annotations, such as chain ID, structure resolution, and ligand, of the collected homologous structures in the str_collection_log file
 - ref: The reference sequence in fasta format
 - homo: Raw homologous sequences in fasta format
 - pdb_store: Please unzip the compressed file to get the raw homologous structures
